@@ -1,4 +1,6 @@
 [build]
     publish="dist"
-    command="build"
+    command="yarn build"
     functions="/functions"
+[dev]
+    command="yarn develop"
