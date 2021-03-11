@@ -30,7 +30,7 @@ $file.addEventListener('change', (e) => {
         step: async (results, parser) => {
             if (results.data[0].toLowerCase() === 'name') return
 
-            queries.push({name: results.data[0], company: results.data[1]})
+            queries.push({name: `${results.data[0]} ${results.data[1]}`, company: results.data[3]})
         },
         error: (error) => console.log(error),
         complete: async () => {
