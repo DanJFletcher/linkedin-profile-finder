@@ -5,7 +5,7 @@ const handler = async function (event) {
   const { GOOGLE_SEARCH_API_SECRET } = process.env
 
   try {
-    const response = await fetch(`https://www.googleapis.com/customsearch/v1?key=${GOOGLE_SEARCH_API_SECRET}=${query}`, {
+    const response = await fetch(`https://www.googleapis.com/customsearch/v1/siterestrict?key=${GOOGLE_SEARCH_API_SECRET}&cx=fb1c5f1e963f16518&q=${query}`, {
       headers: { Accept: 'application/json' },
     })
     if (!response.ok) {

@@ -9,8 +9,8 @@ const wait = (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-const lookupLinkedInLinks = async () => {
-    for (const q of queries) {
+const lookupLinkedInLinks = () => {
+    return Promise.all(queries.map(async (q) => {
         const response = await fetch('.netlify/functions/upload', {
             method: 'POST',
             body: JSON.stringify(`${q.name} ${q.company}`)
@@ -19,7 +19,7 @@ const lookupLinkedInLinks = async () => {
         const link = await response.json()
 
         rows.push([q.name, q.company, link])
-    }
+    }))
 }
 
 
@@ -28,7 +28,7 @@ $file.addEventListener('change', (e) => {
     console.log(e.target.files)
     parse(e.target.files[0], {
         step: async (results, parser) => {
-            if (results.data[0].toLowerCase() === 'name') return
+            if (results.data[0].toLowerCase() === 'First Name') return
 
             queries.push({name: `${results.data[0]} ${results.data[1]}`, company: results.data[3]})
         },
