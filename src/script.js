@@ -28,7 +28,7 @@ $file.addEventListener('change', (e) => {
     console.log(e.target.files)
     parse(e.target.files[0], {
         step: async (results, parser) => {
-            if (results.data[0].toLowerCase() === 'First Name') return
+            if (results.data[0].toLowerCase() === 'first name') return
 
             queries.push({name: `${results.data[0]} ${results.data[1]}`, company: results.data[3]})
         },
