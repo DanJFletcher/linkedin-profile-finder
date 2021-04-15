@@ -3,7 +3,7 @@ import { parse } from '../node_modules/papaparse/papaparse.js'
 
 const $file = document.getElementById('file')
 
-const rows = [['Name', 'Company', 'LinkedIn URL']]
+const rows = [['First','Last','Email','Title','Company']]
 const queries = []
 const wait = (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms))
@@ -30,7 +30,7 @@ $file.addEventListener('change', (e) => {
         step: async (results, parser) => {
             if (results.data[0].toLowerCase() === 'first name') return
 
-            queries.push({name: `${results.data[0]} ${results.data[1]}`, company: results.data[3]})
+            queries.push({name: `${results.data[0]} ${results.data[1]}`, company: results.data[4]})
         },
         error: (error) => console.log(error),
         complete: async () => {
