@@ -36,7 +36,7 @@ $file.addEventListener('change', (e) => {
         complete: async () => {
             await lookupLinkedInLinks()
 
-            let csvContent = 'data:text/csv;charset=utf-8,' + rows.map(x => x.join(',')).join('\n')
+            let csvContent = 'data:text/csv;charset=utf-8,' + rows.reverse().map(x => x.join(',')).join('\n')
             window.open(encodeURI(csvContent))
         }
     })

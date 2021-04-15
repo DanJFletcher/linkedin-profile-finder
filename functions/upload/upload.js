@@ -15,6 +15,10 @@ const handler = async function (event) {
 
     const data = await response.json()
 
+    if (!data.items) {
+      data.items = [{formattedUrl: 'no LinkedIn'}]
+    }
+
     return {
       statusCode: 200,
       body: JSON.stringify(data.items[0].formattedUrl),
