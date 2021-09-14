@@ -1,0 +1,535 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Dan Fletcher Vehikl",
+                "totalResults": "16",
+                "searchTerms": "Dan Fletcher Vehikl",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "fb1c5f1e963f16518"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Dan Fletcher Vehikl",
+                "totalResults": "16",
+                "searchTerms": "Dan Fletcher Vehikl",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "fb1c5f1e963f16518"
+            }
+        ]
+    },
+    "context": {
+        "title": "Linkedin"
+    },
+    "searchInformation": {
+        "searchTime": 0.2424,
+        "formattedSearchTime": "0.24",
+        "totalResults": "16",
+        "formattedTotalResults": "16"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Dan Fletcher - Web Application Developer - Vehikl | LinkedIn",
+            "htmlTitle": "<b>Dan Fletcher</b> - Web Application Developer - <b>Vehikl</b> | LinkedIn",
+            "link": "https://ca.linkedin.com/in/danjfletcher",
+            "displayLink": "ca.linkedin.com",
+            "snippet": "View Dan Fletcher's profile on LinkedIn, the world's largest professional community. Dan has 9 jobs listed on their profile. See the complete profile on ...",
+            "htmlSnippet": "View <b>Dan Fletcher&#39;s</b> profile on LinkedIn, the world&#39;s largest professional community. Dan has 9 jobs listed on their profile. See the complete profile on&nbsp;...",
+            "formattedUrl": "https://ca.linkedin.com/in/danjfletcher",
+            "htmlFormattedUrl": "https://ca.linkedin.com/in/<b>dan</b>j<b>fletcher</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://media-exp1.licdn.com/dms/image/C5603AQEdzhuk6VEP1Q/profile-displayphoto-shrink_200_200/0/1584494162424?e=1635379200&v=beta&t=E8d_i2UsPKj7Dsy1q3pen6QUc66wZSqOKPNxm8Zm0mE",
+                        "twitter:card": "summary",
+                        "platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                        "al:android:package": "com.linkedin.android",
+                        "locale": "en_US",
+                        "al:ios:url": "https://ca.linkedin.com/in/danjfletcher",
+                        "og:description": "View Dan Fletcher’s profile on LinkedIn, the world’s largest professional community. Dan has 9 jobs listed on their profile. See the complete profile on LinkedIn and discover Dan’s connections and jobs at similar companies.",
+                        "al:ios:app_store_id": "288429040",
+                        "platform": "https://static-exp1.licdn.com/sc/h/6gu3stmyhqe0brlp2zj845gxl",
+                        "twitter:image": "https://media-exp1.licdn.com/dms/image/C5603AQEdzhuk6VEP1Q/profile-displayphoto-shrink_200_200/0/1584494162424?e=1635379200&v=beta&t=E8d_i2UsPKj7Dsy1q3pen6QUc66wZSqOKPNxm8Zm0mE",
+                        "profile:last_name": "Fletcher",
+                        "twitter:site": "@Linkedin",
+                        "litmsprofilename": "public-profile-frontend",
+                        "profile:first_name": "Dan",
+                        "og:type": "profile",
+                        "twitter:title": "Dan Fletcher - Web Application Developer - Vehikl | LinkedIn",
+                        "al:ios:app_name": "LinkedIn",
+                        "og:title": "Dan Fletcher - Web Application Developer - Vehikl | LinkedIn",
+                        "pagekey": "public_profile_v3_mobile",
+                        "al:android:url": "https://ca.linkedin.com/in/danjfletcher",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View Dan Fletcher’s profile on LinkedIn, the world’s largest professional community. Dan has 9 jobs listed on their profile. See the complete profile on LinkedIn and discover Dan’s connections and jobs at similar companies.",
+                        "ubba": "https://static-exp1.licdn.com/sc/h/2kaw6f9icnk9hr34d7sneoghj",
+                        "og:url": "https://ca.linkedin.com/in/danjfletcher",
+                        "al:android:app_name": "LinkedIn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media-exp1.licdn.com/dms/image/C5603AQEdzhuk6VEP1Q/profile-displayphoto-shrink_200_200/0/1584494162424?e=1635379200&v=beta&t=E8d_i2UsPKj7Dsy1q3pen6QUc66wZSqOKPNxm8Zm0mE"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dan Fletcher - Managing Director - Newark Vehicle Hire | LinkedIn",
+            "htmlTitle": "<b>Dan Fletcher</b> - Managing Director - Newark <b>Vehicle</b> Hire | LinkedIn",
+            "link": "https://uk.linkedin.com/in/dan-fletcher-857a1027",
+            "displayLink": "uk.linkedin.com",
+            "snippet": "Dan Fletcher. Entrepreneur, Property investor and Business owner. Newark Vehicle HireGrove Comprehensive. Greater Nottingham191 connections.",
+            "htmlSnippet": "<b>Dan Fletcher</b>. Entrepreneur, Property investor and Business owner. Newark <b>Vehicle</b> HireGrove Comprehensive. Greater Nottingham191 connections.",
+            "formattedUrl": "https://uk.linkedin.com/in/dan-fletcher-857a1027",
+            "htmlFormattedUrl": "https://uk.linkedin.com/in/<b>dan</b>-<b>fletcher</b>-857a1027",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdKL_YyHrulTLf0ObhZyAAvQCTftLzwormEsl37va6eHeQ8cib-ekpAB8",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+                        "twitter:card": "summary",
+                        "platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                        "al:android:package": "com.linkedin.android",
+                        "locale": "en_US",
+                        "al:ios:url": "https://uk.linkedin.com/in/dan-fletcher-857a1027",
+                        "og:description": "View Dan Fletcher’s profile on LinkedIn, the world’s largest professional community. Dan has 1 job listed on their profile. See the complete profile on LinkedIn and discover Dan’s connections and jobs at similar companies.",
+                        "al:ios:app_store_id": "288429040",
+                        "platform": "https://static-exp1.licdn.com/sc/h/6gu3stmyhqe0brlp2zj845gxl",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+                        "profile:last_name": "Fletcher",
+                        "twitter:site": "@Linkedin",
+                        "litmsprofilename": "public-profile-frontend",
+                        "profile:first_name": "Dan",
+                        "og:type": "profile",
+                        "twitter:title": "Dan Fletcher - Managing Director - Newark Vehicle Hire | LinkedIn",
+                        "al:ios:app_name": "LinkedIn",
+                        "og:title": "Dan Fletcher - Managing Director - Newark Vehicle Hire | LinkedIn",
+                        "pagekey": "public_profile_v3_mobile",
+                        "al:android:url": "https://uk.linkedin.com/in/dan-fletcher-857a1027",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View Dan Fletcher’s profile on LinkedIn, the world’s largest professional community. Dan has 1 job listed on their profile. See the complete profile on LinkedIn and discover Dan’s connections and jobs at similar companies.",
+                        "ubba": "https://static-exp1.licdn.com/sc/h/2kaw6f9icnk9hr34d7sneoghj",
+                        "og:url": "https://uk.linkedin.com/in/dan-fletcher-857a1027",
+                        "al:android:app_name": "LinkedIn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "500+ \"Dan Fletcher\" profiles | LinkedIn",
+            "htmlTitle": "500+ &quot;<b>Dan Fletcher</b>&quot; profiles | LinkedIn",
+            "link": "https://www.linkedin.com/pub/dir/Dan/Fletcher",
+            "displayLink": "www.linkedin.com",
+            "snippet": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 500+ professionals ... 500+Results for \"Dan Fletcher\" ... Vehikl, +8 more.",
+            "htmlSnippet": "View the profiles of professionals named &quot;<b>Dan Fletcher</b>&quot; on LinkedIn. There are 500+ professionals ... 500+Results for &quot;<b>Dan Fletcher</b>&quot; ... <b>Vehikl</b>, +8 more.",
+            "formattedUrl": "https://www.linkedin.com/pub/dir/Dan/Fletcher",
+            "htmlFormattedUrl": "https://www.linkedin.com/pub/dir/<b>Dan</b>/<b>Fletcher</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "500+ \"Dan Fletcher\" profiles | LinkedIn",
+                        "clientsideingraphs": "1",
+                        "og:title": "500+ \"Dan Fletcher\" profiles | LinkedIn",
+                        "pagekey": "p_people_guest_search",
+                        "locale": "en_US",
+                        "og:description": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 500+ professionals named \"Dan Fletcher\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "twitter:site": "@linkedin",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 500+ professionals named \"Dan Fletcher\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "litmsprofilename": "people-guest-frontend",
+                        "og:url": "https://www.linkedin.com/pub/dir/Dan/Fletcher"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "20+ \"Dan Fletcher\" profiles | LinkedIn",
+            "htmlTitle": "20+ &quot;<b>Dan Fletcher</b>&quot; profiles | LinkedIn",
+            "link": "https://ca.linkedin.com/pub/dir/Dan/Fletcher/ca-0-Canada",
+            "displayLink": "ca.linkedin.com",
+            "snippet": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 20+ professionals named ... 20+Results for \"Dan Fletcher\" ... Vehikl, +8 more.",
+            "htmlSnippet": "View the profiles of professionals named &quot;<b>Dan Fletcher</b>&quot; on LinkedIn. There are 20+ professionals named ... 20+Results for &quot;<b>Dan Fletcher</b>&quot; ... <b>Vehikl</b>, +8 more.",
+            "formattedUrl": "https://ca.linkedin.com/pub/dir/Dan/Fletcher/ca-0-Canada",
+            "htmlFormattedUrl": "https://ca.linkedin.com/pub/dir/<b>Dan</b>/<b>Fletcher</b>/ca-0-Canada",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "20+ \"Dan Fletcher\" profiles | LinkedIn",
+                        "clientsideingraphs": "1",
+                        "linkedin:pagetag": "same_name_country",
+                        "og:title": "20+ \"Dan Fletcher\" profiles | LinkedIn",
+                        "pagekey": "p_people_guest_search",
+                        "locale": "en_US",
+                        "og:description": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 20+ professionals named \"Dan Fletcher\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "twitter:site": "@linkedin",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View the profiles of professionals named \"Dan Fletcher\" on LinkedIn. There are 20+ professionals named \"Dan Fletcher\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "litmsprofilename": "people-guest-frontend",
+                        "og:url": "https://ca.linkedin.com/pub/dir/Dan/Fletcher/ca-0-Canada"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dan Fletcher – Director of Engineering and Product Development ...",
+            "htmlTitle": "<b>Dan Fletcher</b> – Director of Engineering and Product Development ...",
+            "link": "https://ca.linkedin.com/in/danfletcher/de",
+            "displayLink": "ca.linkedin.com",
+            "snippet": "Sehen Sie sich das Profil von Dan Fletcher auf LinkedIn an, dem weltweit größten beruflichen Netzwerk. 7 Jobs sind im Profil von Dan Fletcher aufgelistet.",
+            "htmlSnippet": "Sehen Sie sich das Profil von <b>Dan Fletcher</b> auf LinkedIn an, dem weltweit größten beruflichen Netzwerk. 7 Jobs sind im Profil von <b>Dan Fletcher</b> aufgelistet.",
+            "formattedUrl": "https://ca.linkedin.com/in/danfletcher/de",
+            "htmlFormattedUrl": "https://ca.linkedin.com/in/<b>danfletcher</b>/de",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Dan Fletcher",
+                        "title": "Director of Engineering and Product Development at Fiberbuilt Manufacturing Inc."
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjm1sEs1JK0_XlmZlWah1SPdMHgPJww_-QMcnAAIX2hAbzb9Cko5GEX4MW",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Director of Engineering and Product Development at Fiberbuilt Manufacturing Inc.",
+                        "org": "Director of Engineering and Product Development bei Fiberbuilt Manufacturing Inc."
+                    },
+                    {
+                        "jobtitle": "Director of Engineering and Product Development at Fiberbuilt Manufacturing Inc.",
+                        "name": "Dan Fletcher"
+                    }
+                ],
+                "organization": [
+                    {
+                        "image": "https://media.licdn.com/dms/image/C4E0BAQE6yWd23eTl4g/company-logo_100_100/0?e=1567641600&v=beta&t=S6tqMIrqMfQ0LtyXzi4Y0hMPuEvUEufS82kw-mqls-s",
+                        "name": "Director of Engineering and Product Development bei Fiberbuilt Manufacturing Inc."
+                    },
+                    {
+                        "image": "https://media.licdn.com/dms/image/C510BAQFZG3g3EpjPyA/company-logo_100_100/0?e=1567641600&v=beta&t=hExwJpGWtHaOPDOY-VTS0KHtHxkFTq1ISsFXm_6CbDc",
+                        "name": "University of Calgary"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media.licdn.com/dms/image/C4E03AQG3AdIlJpK3_Q/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=076bIKenLR-FWi8uqgbimKW-VNJbUd6xZhfbS9aofhY",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Dan Fletcher – Director of Engineering and Product Development – Fiberbuilt Manufacturing Inc. | LinkedIn",
+                        "og:title": "Dan Fletcher – Director of Engineering and Product Development – Fiberbuilt Manufacturing Inc. | LinkedIn",
+                        "pagekey": "public_profile_v3_desktop",
+                        "locale": "de_DE",
+                        "og:description": "Sehen Sie sich das Profil von Dan Fletcher auf LinkedIn an, dem weltweit größten beruflichen Netzwerk. 7 Jobs sind im Profil von Dan Fletcher aufgelistet. Sehen Sie sich auf LinkedIn das vollständige Profil an. Erfahren Sie mehr über die Kontakte von Dan Fletcher und über Jobs bei ähnlichen Unternehmen.",
+                        "twitter:image": "https://media.licdn.com/dms/image/C4E03AQG3AdIlJpK3_Q/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=076bIKenLR-FWi8uqgbimKW-VNJbUd6xZhfbS9aofhY",
+                        "twitter:site": "@Linkedin",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Sehen Sie sich das Profil von Dan Fletcher auf LinkedIn an, dem weltweit größten beruflichen Netzwerk. 7 Jobs sind im Profil von Dan Fletcher aufgelistet. Sehen Sie sich auf LinkedIn das vollständige Profil an. Erfahren Sie mehr über die Kontakte von Dan Fletcher und über Jobs bei ähnlichen Unternehmen.",
+                        "og:url": "https://ca.linkedin.com/in/danfletcher/de",
+                        "seobeaconworkerurl": "https://static.licdn.com/sc/h/1f4so7osnxpgibipgq2nnx6em"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.licdn.com/dms/image/C4E03AQG3AdIlJpK3_Q/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=076bIKenLR-FWi8uqgbimKW-VNJbUd6xZhfbS9aofhY"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "400+ perfiles de «Dan Fletcher» | LinkedIn",
+            "htmlTitle": "400+ perfiles de «<b>Dan Fletcher</b>» | LinkedIn",
+            "link": "https://pa.linkedin.com/pub/dir/Dan/Fletcher",
+            "displayLink": "pa.linkedin.com",
+            "snippet": "Hay 400+ profesionales con el nombre de «Dan Fletcher» que usan LinkedIn para intercambiar ... 400+ resultados para «Dan Fletcher» ... Vehikl y 8 más.",
+            "htmlSnippet": "Hay 400+ profesionales con el nombre de «<b>Dan Fletcher</b>» que usan LinkedIn para intercambiar ... 400+ resultados para «<b>Dan Fletcher</b>» ... <b>Vehikl</b> y 8 más.",
+            "formattedUrl": "https://pa.linkedin.com/pub/dir/Dan/Fletcher",
+            "htmlFormattedUrl": "https://pa.linkedin.com/pub/dir/<b>Dan</b>/<b>Fletcher</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "400+ perfiles de «Dan Fletcher» | LinkedIn",
+                        "clientsideingraphs": "1",
+                        "og:title": "400+ perfiles de «Dan Fletcher» | LinkedIn",
+                        "pagekey": "p_people_guest_search",
+                        "locale": "es_ES",
+                        "og:description": "Ve los perfiles de profesionales con el nombre de «Dan Fletcher» en LinkedIn. Hay 400+ profesionales con el nombre de «Dan Fletcher» que usan LinkedIn para intercambiar información, ideas y oportunidades.",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "twitter:site": "@linkedin",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Ve los perfiles de profesionales con el nombre de «Dan Fletcher» en LinkedIn. Hay 400+ profesionales con el nombre de «Dan Fletcher» que usan LinkedIn para intercambiar información, ideas y oportunidades.",
+                        "litmsprofilename": "people-guest-frontend",
+                        "og:url": "https://www.linkedin.com/pub/dir/Dan/Fletcher"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Jeremy Cook - Senior Principal Software Developer - Oracle | LinkedIn",
+            "htmlTitle": "Jeremy Cook - Senior Principal Software Developer - Oracle | LinkedIn",
+            "link": "https://ca.linkedin.com/in/jeremywcook",
+            "displayLink": "ca.linkedin.com",
+            "snippet": "Vehikl Graphic. Lead Developer. Vehikl. Feb 2019 - Jan 2020 1 year. Waterloo, Ontario ... Dan Fletcher. Web Application Developer. London, ON ...",
+            "htmlSnippet": "<b>Vehikl</b> Graphic. Lead Developer. <b>Vehikl</b>. Feb 2019 - Jan 2020 1 year. Waterloo, Ontario ... <b>Dan Fletcher</b>. Web Application Developer. London, ON&nbsp;...",
+            "formattedUrl": "https://ca.linkedin.com/in/jeremywcook",
+            "htmlFormattedUrl": "https://ca.linkedin.com/in/jeremywcook",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzSFjKNNq4cT7m86eeg7wxAgdrDUK-ocEefPqu7vw4hNNu5EwJem2u4BQN",
+                        "width": "194",
+                        "height": "259"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media-exp1.licdn.com/dms/image/C4E03AQGyefznMKe7dQ/profile-displayphoto-shrink_200_200/0/1581110872948?e=1637193600&v=beta&t=6SpfPwLjI5RHvJAeegiGRA0Sx7seaG5a7w5NniIuGi4",
+                        "twitter:card": "summary",
+                        "platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                        "al:android:package": "com.linkedin.android",
+                        "locale": "en_US",
+                        "al:ios:url": "https://ca.linkedin.com/in/jeremywcook",
+                        "og:description": "View Jeremy Cook’s profile on LinkedIn, the world’s largest professional community. Jeremy has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Jeremy’s connections and jobs at similar companies.",
+                        "al:ios:app_store_id": "288429040",
+                        "platform": "https://static-exp1.licdn.com/sc/h/6gu3stmyhqe0brlp2zj845gxl",
+                        "twitter:image": "https://media-exp1.licdn.com/dms/image/C4E03AQGyefznMKe7dQ/profile-displayphoto-shrink_200_200/0/1581110872948?e=1637193600&v=beta&t=6SpfPwLjI5RHvJAeegiGRA0Sx7seaG5a7w5NniIuGi4",
+                        "profile:last_name": "Cook",
+                        "twitter:site": "@Linkedin",
+                        "litmsprofilename": "public-profile-frontend",
+                        "profile:first_name": "Jeremy",
+                        "og:type": "profile",
+                        "twitter:title": "Jeremy Cook - Senior Principal Software Developer - Oracle | LinkedIn",
+                        "al:ios:app_name": "LinkedIn",
+                        "og:title": "Jeremy Cook - Senior Principal Software Developer - Oracle | LinkedIn",
+                        "pagekey": "public_profile_v3_mobile",
+                        "al:android:url": "https://ca.linkedin.com/in/jeremywcook",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View Jeremy Cook’s profile on LinkedIn, the world’s largest professional community. Jeremy has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Jeremy’s connections and jobs at similar companies.",
+                        "ubba": "https://static-exp1.licdn.com/sc/h/2kaw6f9icnk9hr34d7sneoghj",
+                        "og:url": "https://ca.linkedin.com/in/jeremywcook",
+                        "al:android:app_name": "LinkedIn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media-exp1.licdn.com/dms/image/C4E22AQH6JhnlndPiyg/feedshare-shrink_800/0/1614610606864?e=1634169600&v=beta&t=YIHH4rW81jDL_41CtISm7ZWEfe-3BnaGCW2nEcEKesQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "1200+ \"Dan)\" profiles | LinkedIn",
+            "htmlTitle": "1200+ &quot;<b>Dan</b>)&quot; profiles | LinkedIn",
+            "link": "https://www.linkedin.com/pub/dir/Dan%29/+/ca-4869-London,-Canada-Area",
+            "displayLink": "www.linkedin.com",
+            "snippet": "1200+Results for \"Dan)\" · Daniel (Dan) Zaluski · Dan Hasson · Dan Brown · Dan Friesen · Dan Forgetta · Dan Hunter · Dan Nagle · Dan Wilsdon.",
+            "htmlSnippet": "1200+Results for &quot;<b>Dan</b>)&quot; &middot; <b>Daniel</b> (<b>Dan</b>) Zaluski &middot; <b>Dan</b> Hasson &middot; <b>Dan</b> Brown &middot; <b>Dan</b> Friesen &middot; <b>Dan</b> Forgetta &middot; <b>Dan</b> Hunter &middot; <b>Dan</b> Nagle &middot; <b>Dan</b> Wilsdon.",
+            "formattedUrl": "https://www.linkedin.com/pub/.../Dan%29/+/ca-4869-London,-Canada-Area",
+            "htmlFormattedUrl": "https://www.linkedin.com/pub/.../<b>Dan</b>%29/+/ca-4869-London,-Canada-Area",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1FgbL6JchNk8pdkNo0lcqhQV17vZGtroGnWXq1JFzC27BwHmXsLg_XV2y",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "1200+ \"Dan)\" profiles | LinkedIn",
+                        "clientsideingraphs": "1",
+                        "linkedin:pagetag": "same_name_region",
+                        "og:title": "1200+ \"Dan)\" profiles | LinkedIn",
+                        "pagekey": "p_people_guest_search",
+                        "locale": "en_US",
+                        "og:description": "View the profiles of professionals named \"Dan)\" on LinkedIn. There are 1200+ professionals named \"Dan)\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/3usjoqttpyv7mplawrjzi58bw",
+                        "twitter:site": "@linkedin",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View the profiles of professionals named \"Dan)\" on LinkedIn. There are 1200+ professionals named \"Dan)\", who use LinkedIn to exchange information, ideas, and opportunities.",
+                        "litmsprofilename": "people-guest-frontend",
+                        "og:url": "https://ca.linkedin.com/pub/dir/Dan%29/+/ca-4869-London%2C-Canada-Metropolitan-Area"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media-exp1.licdn.com/dms/image/C4E03AQE7oBqjwpuCjw/profile-displayphoto-shrink_200_200/0/1615215965942?e=1632960000&v=beta&t=Ot0ydpiXpb0d1d8gNPoiTvpZc2J9tggmytoeEvn-dJE"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kevin Fletcher - Hand over specialist - Allports Group | LinkedIn",
+            "htmlTitle": "Kevin <b>Fletcher</b> - Hand over specialist - Allports Group | LinkedIn",
+            "link": "https://uk.linkedin.com/in/kevin-fletcher-425aa123",
+            "displayLink": "uk.linkedin.com",
+            "snippet": "Experienced Manager with a demonstrated history of working in the Truck Rental and Contract Hire industry. Skilled in Negotiation, Operations Management, ...",
+            "htmlSnippet": "Experienced Manager with a demonstrated history of working in the Truck Rental and Contract Hire industry. Skilled in Negotiation, Operations Management,&nbsp;...",
+            "formattedUrl": "https://uk.linkedin.com/in/kevin-fletcher-425aa123",
+            "htmlFormattedUrl": "https://uk.linkedin.com/in/kevin-<b>fletcher</b>-425aa123",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdKL_YyHrulTLf0ObhZyAAvQCTftLzwormEsl37va6eHeQ8cib-ekpAB8",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+                        "twitter:card": "summary",
+                        "platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                        "al:android:package": "com.linkedin.android",
+                        "locale": "en_US",
+                        "al:ios:url": "https://uk.linkedin.com/in/kevin-fletcher-425aa123",
+                        "og:description": "View Kevin Fletcher’s profile on LinkedIn, the world’s largest professional community. Kevin has 8 jobs listed on their profile. See the complete profile on LinkedIn and discover Kevin’s connections and jobs at similar companies.",
+                        "al:ios:app_store_id": "288429040",
+                        "platform": "https://static-exp1.licdn.com/sc/h/6gu3stmyhqe0brlp2zj845gxl",
+                        "twitter:image": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+                        "profile:last_name": "Fletcher",
+                        "twitter:site": "@Linkedin",
+                        "litmsprofilename": "public-profile-frontend",
+                        "profile:first_name": "Kevin",
+                        "og:type": "profile",
+                        "twitter:title": "Kevin Fletcher - Hand over specialist - Allports Group | LinkedIn",
+                        "al:ios:app_name": "LinkedIn",
+                        "og:title": "Kevin Fletcher - Hand over specialist - Allports Group | LinkedIn",
+                        "pagekey": "public_profile_v3_mobile",
+                        "al:android:url": "https://uk.linkedin.com/in/kevin-fletcher-425aa123",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View Kevin Fletcher’s profile on LinkedIn, the world’s largest professional community. Kevin has 8 jobs listed on their profile. See the complete profile on LinkedIn and discover Kevin’s connections and jobs at similar companies.",
+                        "ubba": "https://static-exp1.licdn.com/sc/h/2kaw6f9icnk9hr34d7sneoghj",
+                        "og:url": "https://uk.linkedin.com/in/kevin-fletcher-425aa123",
+                        "al:android:app_name": "LinkedIn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Marc Bueno - Professor, Program Coordinator - Fanshawe College ...",
+            "htmlTitle": "Marc Bueno - Professor, Program Coordinator - Fanshawe College ...",
+            "link": "https://ca.linkedin.com/in/marcbueno",
+            "displayLink": "ca.linkedin.com",
+            "snippet": "... a key asset to any organization he works for.” Click here to view Dan Fletcher's profile ... Come hangout and watch the Vehikl team… Liked by Marc Bueno.",
+            "htmlSnippet": "... a key asset to any organization he works for.” Click here to view <b>Dan Fletcher&#39;s</b> profile ... Come hangout and watch the <b>Vehikl</b> team… Liked by Marc Bueno.",
+            "formattedUrl": "https://ca.linkedin.com/in/marcbueno",
+            "htmlFormattedUrl": "https://ca.linkedin.com/in/marcbueno",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6SyO-DXTsl_EoonGiQBdBndmguSEmhKlOslWz6K8iP4dU8wLq9gVFuWG0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media-exp1.licdn.com/dms/image/C4D03AQFlTNZ6Aqajfw/profile-displayphoto-shrink_200_200/0/1606451124146?e=1636588800&v=beta&t=vJTtYSeiBN6jtq8lMwZgHjZe5B9DcOP5gfovxS0o-xM",
+                        "twitter:card": "summary",
+                        "platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                        "al:android:package": "com.linkedin.android",
+                        "locale": "en_US",
+                        "al:ios:url": "https://ca.linkedin.com/in/marcbueno",
+                        "og:description": "View Marc Bueno’s profile on LinkedIn, the world’s largest professional community. Marc has 19 jobs listed on their profile. See the complete profile on LinkedIn and discover Marc’s connections and jobs at similar companies.",
+                        "al:ios:app_store_id": "288429040",
+                        "platform": "https://static-exp1.licdn.com/sc/h/6gu3stmyhqe0brlp2zj845gxl",
+                        "twitter:image": "https://media-exp1.licdn.com/dms/image/C4D03AQFlTNZ6Aqajfw/profile-displayphoto-shrink_200_200/0/1606451124146?e=1636588800&v=beta&t=vJTtYSeiBN6jtq8lMwZgHjZe5B9DcOP5gfovxS0o-xM",
+                        "profile:last_name": "Bueno",
+                        "twitter:site": "@Linkedin",
+                        "litmsprofilename": "public-profile-frontend",
+                        "profile:first_name": "Marc",
+                        "og:type": "profile",
+                        "twitter:title": "Marc Bueno - Professor, Program Coordinator - Fanshawe College | LinkedIn",
+                        "al:ios:app_name": "LinkedIn",
+                        "og:title": "Marc Bueno - Professor, Program Coordinator - Fanshawe College | LinkedIn",
+                        "pagekey": "public_profile_v3_mobile",
+                        "al:android:url": "https://ca.linkedin.com/in/marcbueno",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "View Marc Bueno’s profile on LinkedIn, the world’s largest professional community. Marc has 19 jobs listed on their profile. See the complete profile on LinkedIn and discover Marc’s connections and jobs at similar companies.",
+                        "ubba": "https://static-exp1.licdn.com/sc/h/2kaw6f9icnk9hr34d7sneoghj",
+                        "og:url": "https://ca.linkedin.com/in/marcbueno",
+                        "al:android:app_name": "LinkedIn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-exp1.licdn.com/scds/common/u/img/pic/pic_pulse_stock_article_7.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

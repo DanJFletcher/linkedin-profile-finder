@@ -16,9 +16,9 @@ const lookupLinkedInLinks = () => {
             body: JSON.stringify(`${q.name} ${q.company}`)
         })
 
-        const link = await response.json()
+        const data = await response.json()
 
-        rows.push([q.name, q.company, link])
+        rows.push([q.name, q.company, data.url, data.title])
     }))
 }
 
